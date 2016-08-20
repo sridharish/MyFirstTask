@@ -74,7 +74,7 @@ height:84px;
 .inner-message{
   margin-top:10px;
   margin-left:11px;
-  background-image: url("../images/mes.jpg");
+  background-image: url("../IMAGES/mes.jpg");
   background-size:100%;
   border:4px solid #362f25;
   z-index:2;
@@ -82,28 +82,28 @@ height:84px;
 .inner-alarm{
   margin-top:10px;
   margin-left:11px;
-  background-image: url("../images/alm.jpg");
+  background-image: url("../IMAGES/alm.jpg");
   background-size:100%;
   z-index:2;
 }
 .inner-bag{
   margin-top:8px;
   margin-left:11px;
-  background-image: url("../images/cal.jpg");
+  background-image: url("../IMAGES/cal.jpg");
   background-size:100%;
   z-index:2;
 }
 .inner-ladder{
   margin-top:12px;
   margin-left:12px;
-  background-image: url("../images/lad2.jpg");
+  background-image: url("../IMAGES/lad2.jpg");
   background-size:100%;
   z-index:2;
 }
 .inner-search{
   margin-top:9px;
   margin-left:10px;
-  background-image: url("../images/ser.jpg");
+  background-image: url("../IMAGES/ser.jpg");
   background-size:100%;
 }
 .inner-notifaction{
@@ -121,14 +121,14 @@ height:84px;
 .inner-notifaction-dp{
  top: 40px;
  left:-5px;
- background-image: url("../images/n15.jpg");
+ background-image: url("../IMAGES/n15.jpg");
  background-size:100%;
 }
 .inner-notifaction-message{
   left:-5px;
   top:29px;
   background-color:#3b3b39;
-  background-image: url("../images/plus.jpg");
+  background-image: url("../IMAGES/plus.jpg");
   background-size:100%;
 }
 .inner-notifaction-alarm{
@@ -138,14 +138,14 @@ height:84px;
   left:-5px;
   top:29px;
   background-color:gray;
-  background-image: url("../images/plus.jpg");
+  background-image: url("../IMAGES/plus.jpg");
   background-size:100%;
 }
 .inner-notifaction-bag{
 left:-5px;
 top:24px;
 background-color:#3b3b39;
-background-image: url("../images/plus.jpg");
+background-image: url("../IMAGES/plus.jpg");
 background-size:100%;
 }
 .Top-right{
@@ -348,7 +348,7 @@ color: #161617;
   font-family: sans-serif;
   text-align: center;
   font-weight: 600;
-  background-image: url("../images/br1.jpg");
+  background-image: url("../IMAGES/br1.jpg");
 }
 .date-box{
   width: 57px;
@@ -379,7 +379,7 @@ color: #161617;
   height: 43px;
   position: relative;
   display: inline-block;
-  background-image: url("../images/docx.jpg");
+  background-image: url("../IMAGES/docx.jpg");
   background-size: 100%;
   left: -45px;
   top: 18px;
@@ -445,7 +445,7 @@ color: #161617;
  height:200px;
  position:relative;
  display:inline-block;
- background-image: url("../images/img1.jpg");
+ background-image: url("../IMAGES/img1.jpg");
  top:22px;
  left:-44px;
 }
@@ -454,7 +454,7 @@ color: #161617;
   height:200px;
   position:relative;
   display:inline-block;
-  background-image: url("../images/img1.jpg");
+  background-image: url("../IMAGES/img1.jpg");
   background-color:white;
   top:22px;
   left:-29px;
@@ -626,7 +626,7 @@ left:1px;
   display: inline-block;
   left: -45px;
   top: 23px;
-  background-image: url("../images/xlsx.jpg");
+  background-image: url("../IMAGES/xlsx.jpg");
   background-size: 100%;
 }
 .span-zlsx-h1{
@@ -676,7 +676,7 @@ left:1px;
 .icon-round-message{
   margin-top:22px;
   margin-left:-19px ;
-  background-image: url("../images/bmes.jpg");
+  background-image: url("../IMAGES/bmes.jpg");
 }
 .date-box-message{
   top: 24px;
@@ -734,7 +734,7 @@ left:1px;
   top: 9px;
   border-radius: 52px;
   background-color: white;
-  background-image: url("../images/mdp1.jpg");
+  background-image: url("../IMAGES/mdp1.jpg");
   background-size: 100%;
 }
 .message-dp-name{
@@ -848,7 +848,7 @@ left:1px;
  left: 3px;
  z-index:1;
  top: -146px;
- background-image: url("../images/balr.jpg");
+ background-image: url("../IMAGES/balr.jpg");
 }
 .date-box-alarm{
   top: -119px;
